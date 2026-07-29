@@ -8,21 +8,21 @@
 
 ---
 
-### 🧠 About Me
-
-- 🔭 Working on **3D reconstruction** & **metric depth estimation**
-- 🗺️ Creator of [**Simple-MapAnything**](https://github.com/popoloy/Simple-MapAnything) — image-to-3D inference pipeline
-- 🎯 Focused on computer vision, multi-view geometry, and generative 3D
-
----
-
-### 📊 GitHub Stats
+### 🏯 修仙统计
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=popoloy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9)
+![Immortality](https://github-immortality.vercel.app/api?username=popoloy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=popoloy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9)
+</div>
+
+---
+
+### 🌐 社交统计
+
+<div align="center">
+
+![GitHub](https://stats.justsong.cn/api/github?username=popoloy&theme=dark)
 
 </div>
 
