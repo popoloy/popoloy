@@ -8,7 +8,6 @@
 
 ---
 
-### 🏯 修仙统计
 
 <div align="center">
 
@@ -18,7 +17,6 @@
 
 ---
 
-### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -34,7 +32,6 @@
 
 ---
 
-### 📈 Activity Graph
 
 <div align="center">
 
@@ -44,7 +41,6 @@
 
 ---
 
-### 🐍 Contribution Snake
 
 <div align="center">
 
