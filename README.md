@@ -18,16 +18,6 @@
 
 ---
 
-### 🌐 社交统计
-
-<div align="center">
-
-![GitHub](https://stats.justsong.cn/api/github?username=popoloy&theme=dark)
-
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -43,16 +33,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-</div>
-
----
-
-### 🏆 Trophy
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=popoloy&theme=darkhub&no-frame=true&column=7&margin-w=8)
 
 </div>
 
