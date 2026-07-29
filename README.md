@@ -24,12 +24,6 @@
 
 <br/>
 
-<!-- GitHub 连续打卡 -->
-<div align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=popoloy"/>
-</div>
-
-<br/>
 
 <!-- 贪吃蛇 -->
 <div align="center">
@@ -58,7 +52,7 @@
 
 <!-- 技术栈图标 -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,rust,fastapi,unity,godot,qt,vue,docker,git,linux,vscode&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=python,C++,C#,MATLAB,fastapi,godot,qt,vue,docker,git,linux,vscode&perline=7"/>
 </div>
 
 <!-- 底部波浪 -->
