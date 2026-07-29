@@ -26,7 +26,7 @@
 
 <!-- GitHub 连续打卡 -->
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=popoloy&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=popoloy"/>
 </div>
 
 <br/>
@@ -63,3 +63,5 @@
 
 <!-- 底部波浪 -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=100&section=footer"/>
+</p>
