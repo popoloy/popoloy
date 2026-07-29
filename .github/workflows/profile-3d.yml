@@ -1,0 +1,34 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create settings.json
+        run: |
+          cat << 'EOF' > settings.json
+          {"type":"rainbow","fileName":"profile-night-rainbow.svg","backgroundColor":"#0d1117","foregroundColor":"#eeeeff","strongColor":"rgb(167,139,250)","weakColor":"#666666","radarColor":"rgb(124,58,237)","growingAnimation":true,"saturation":"50%","contribLightness":["25%","35%","40%","45%","55%"],"duration":"10s","hueRatio":-7}
+          EOF
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: settings.json
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "chore: update 3D contribution graph"; then
+            git push
+          fi
