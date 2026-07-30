@@ -13,6 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=popoloy&color=7C3AED&style=flat-square&label=visitors"/>
 </p>
 
+
 <!-- 个人介绍 -->
 <div align="center">
   <samp>
@@ -25,10 +26,12 @@
 <br/>
 
 
+
 <!-- 技术栈图标 -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,linux,blender,matlab,ai,cpp,cs,html,kotlin,js,docker,bash,fastapi,docker,git,vscode,pycharm,github&perline=7"/>
 </div>
+
 
 
 <!-- 修仙卡片 -->
@@ -36,17 +39,17 @@
   <img src="https://github-immortality.vercel.app/api?username=popoloy"/>
 </div>
 
-<br/>
 
-
-<br/>
 
 <!-- 3D 贡献图 -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/popoloy/popoloy/master/profile-3d-contrib/profile-night-rainbow.svg" width="85%"/>
 </div>
 
+<br/>
 
+
+<br/>
 <!-- 贪吃蛇 -->
 <div align="center">
   <picture>
