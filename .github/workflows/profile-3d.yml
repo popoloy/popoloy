@@ -1,8 +1,8 @@
-name: 3D Contribution Graph
+name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "0 18 * * *"
+  schedule: # 00:00 UTC+8 == 16:00 UTC
+    - cron: "0 16 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Create settings.json
         run: |
           cat << 'EOF' > settings.json
-          {"type":"rainbow","fileName":"profile-night-rainbow.svg","backgroundColor":"#0d1117","foregroundColor":"#eeeeff","strongColor":"rgb(167,139,250)","weakColor":"#666666","radarColor":"rgb(124,58,237)","growingAnimation":true,"saturation":"50%","contribLightness":["25%","35%","40%","45%","55%"],"duration":"10s","hueRatio":-7}
+          {"type":"season","fileName":"profile-season-animate.svg","growingAnimation":true,"duration":"10s"}
           EOF
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
