@@ -1,6 +1,6 @@
 <!-- 头部波浪 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:3B82F6,100:10B981&height=200&section=header&text=popoloy&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Hello,+friends!&descColor=ffffff&descAlignY=55&descSize=18&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:3B82F6,100:10B981&height=200&section=header&text=popoloy&fontColor=1e293b&fontSize=70&fontAlignY=35&desc=Hello,+friends!&descColor=475569&descAlignY=55&descSize=18&animation=fadeIn"/>
 </p>
 
 
