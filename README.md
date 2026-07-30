@@ -52,7 +52,7 @@
 
 <!-- 技术栈图标 -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,C++,C#,MATLAB,fastapi,godot,qt,vue,docker,git,linux,vscode&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=python,opencv,blender,matlab,ai,anaconda,cpp,cs,html,kotlin,js,docker,bash,autocad,discord,fastapi,docker,git,linux,vscode,pycharm,github&perline=7"/>
 </div>
 
 <!-- 底部波浪 -->
