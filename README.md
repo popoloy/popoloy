@@ -29,6 +29,11 @@
   <img src="https://github-immortality.vercel.app/api?username=popoloy"/>
 </div>
 
+<!-- 技术栈图标 -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,linux,blender,matlab,ai,cpp,cs,html,kotlin,js,docker,bash,fastapi,docker,git,vscode,pycharm,github&perline=7"/>
+</div>
+
 <!-- 贪吃蛇 -->
 <div align="center">
   <picture>
@@ -49,11 +54,6 @@
 </div>
 
 <br/>
-
-<!-- 技术栈图标 -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,linux,blender,matlab,ai,cpp,cs,html,kotlin,js,docker,bash,fastapi,docker,git,vscode,pycharm,github&perline=7"/>
-</div>
 
 <!-- 底部波浪 -->
 <p align="center">
