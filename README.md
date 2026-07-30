@@ -34,5 +34,5 @@
 
 <!-- 底部波浪 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:3B82F6,100:10B981&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=100&section=footer"/>
 </p>
