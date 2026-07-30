@@ -24,6 +24,10 @@
 
 <br/>
 
+<!-- 修仙卡片 -->
+<div align="center">
+  <img src="https://github-immortality.vercel.app/api?username=popoloy"/>
+</div>
 
 <!-- 贪吃蛇 -->
 <div align="center">
@@ -36,10 +40,6 @@
 
 <br/>
 
-<!-- 修仙卡片 -->
-<div align="center">
-  <img src="https://github-immortality.vercel.app/api?username=popoloy"/>
-</div>
 
 <br/>
 
@@ -52,7 +52,7 @@
 
 <!-- 技术栈图标 -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,blender,matlab,ai,anaconda,cpp,cs,html,kotlin,js,docker,bash,autocad,discord,fastapi,docker,git,linux,vscode,pycharm,github&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,linux,blender,matlab,ai,cpp,cs,html,kotlin,js,docker,bash,fastapi,docker,git,vscode,pycharm,github&perline=7"/>
 </div>
 
 <!-- 底部波浪 -->
