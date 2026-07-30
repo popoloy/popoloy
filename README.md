@@ -11,7 +11,7 @@
 
 <!-- 技术栈图标 -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,linux,blender,matlab,cpp,cs,html,kotlin,js,docker,fastapi,docker&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,linux,blender,matlab,cpp,cs,html,kotlin,js,java,fastapi,docker&perline=7"/>
 </div>
 
 <br/>
