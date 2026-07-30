@@ -24,23 +24,16 @@
 
 <br/>
 
-<!-- 修仙卡片 -->
-<div align="center">
-  <img src="https://github-immortality.vercel.app/api?username=popoloy"/>
-</div>
 
 <!-- 技术栈图标 -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,linux,blender,matlab,ai,cpp,cs,html,kotlin,js,docker,bash,fastapi,docker,git,vscode,pycharm,github&perline=7"/>
 </div>
 
-<!-- 贪吃蛇 -->
+
+<!-- 修仙卡片 -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/popoloy/popoloy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/popoloy/popoloy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/popoloy/popoloy/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-immortality.vercel.app/api?username=popoloy"/>
 </div>
 
 <br/>
@@ -51,6 +44,16 @@
 <!-- 3D 贡献图 -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/popoloy/popoloy/master/profile-3d-contrib/profile-night-rainbow.svg" width="85%"/>
+</div>
+
+
+<!-- 贪吃蛇 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/popoloy/popoloy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/popoloy/popoloy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/popoloy/popoloy/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
